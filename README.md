@@ -16,5 +16,9 @@ Know some fundamentals in Digital electronics, Networks, Digital communication..
 - 💬 Ask me about C,Python,Node,Arduino
 - 📫 How to reach me:shapnasekar16@gmail.com
 - Good in problem solving in C and Python.
+
+- Worked with......
+- ![image](https://github.com/SHAPNAPRIYA16/SHAPNAPRIYA16/assets/74961810/d9f19fa6-6093-46fb-aa7c-623aa95f7298) 
+
   
 
